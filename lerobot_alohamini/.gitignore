@@ -79,7 +79,8 @@ nosetests.xml
 coverage.xml
 *.cover
 *.py,cover
-!tests/artifacts
+
+### !tests/artifacts
 
 ### Logs & Temporary Files ###
 logs/
